@@ -27,7 +27,7 @@ Your contributions are highly valued! Larger community means faster project.
 - [ReactOS Official Website](https://reactos.org)  
 - [DXVK Project](https://github.com/doitsujin/dxvk)  
 - [VKD3D Project](https://github.com/HansKristian-Work/vkd3d-proton)  
-
+- [One-Core API Source](https://github.com/shorthorn-project/One-Core-API-Source)
 ---
 
 ## 📫 Contact
